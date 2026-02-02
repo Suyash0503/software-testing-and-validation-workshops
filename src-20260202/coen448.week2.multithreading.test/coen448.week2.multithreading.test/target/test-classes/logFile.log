@@ -1,0 +1,36 @@
+00:46:43.123 [main] INFO  c.w.m.test.ThreadSynchroizationTest - worker starts.
+00:46:43.128 [main] INFO  c.w.m.test.ThreadSynchroizationTest - worker joins.
+15:21:06.101 [Thread-1] INFO  c.w.m.test.CountDownLatchExample - performing task starts.
+15:21:06.101 [Thread-0] INFO  c.w.m.test.CountDownLatchExample - performing task starts.
+15:21:06.101 [Thread-2] INFO  c.w.m.test.CountDownLatchExample - performing task starts.
+15:24:22.548 [Thread-0] DEBUG c.w.m.test.CountDownLatchExample - performing task starts.
+15:24:22.548 [Thread-1] DEBUG c.w.m.test.CountDownLatchExample - performing task starts.
+15:24:22.548 [Thread-2] DEBUG c.w.m.test.CountDownLatchExample - performing task starts.
+23:29:00 [Thread-1] DEBUG c.w.m.test.CountDownLatchExample - performing task starts.
+23:29:00 [Thread-0] DEBUG c.w.m.test.CountDownLatchExample - performing task starts.
+23:29:00 [Thread-2] DEBUG c.w.m.test.CountDownLatchExample - performing task starts.
+23:29:21.194 [Thread-2] DEBUG c.w.m.test.CountDownLatchExample - performing task starts.
+23:29:21.194 [Thread-1] DEBUG c.w.m.test.CountDownLatchExample - performing task starts.
+23:29:21.194 [Thread-0] DEBUG c.w.m.test.CountDownLatchExample - performing task starts.
+23:29:47.022 [Thread-0] DEBUG c.w.m.test.CountDownLatchExample - performing task starts.
+23:29:47.022 [Thread-2] DEBUG c.w.m.test.CountDownLatchExample - performing task starts.
+23:29:47.022 [Thread-1] DEBUG c.w.m.test.CountDownLatchExample - performing task starts.
+23:31:52.299 [Thread-0] DEBUG c.w.m.test.CountDownLatchExample - performing task starts.
+23:31:52.299 [Thread-1] DEBUG c.w.m.test.CountDownLatchExample - performing task starts.
+23:31:52.303 [Thread-0] DEBUG c.w.m.test.CountDownLatchExample - latch.count2
+23:31:52.299 [Thread-2] DEBUG c.w.m.test.CountDownLatchExample - performing task starts.
+23:31:52.303 [Thread-1] DEBUG c.w.m.test.CountDownLatchExample - latch.count1
+23:31:52.304 [Thread-2] DEBUG c.w.m.test.CountDownLatchExample - latch.count0
+00:26:10.099 [main] INFO  c.w.m.test.ThreadSynchroizationTest - worker starts.
+00:26:10.106 [main] INFO  c.w.m.test.ThreadSynchroizationTest - worker joins.
+11:14:34.784 [main] INFO  c.w.m.test.ThreadSynchroizationTest - worker starts.
+11:14:34.789 [main] INFO  c.w.m.test.ThreadSynchroizationTest - worker joins.
+14:29:10.244 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\umroot\AppData\Local\Temp\testng-eclipse-1000134512\testng-customsuite.xml"
+14:29:34.891 [main] INFO  c.w.m.test.ThreadSynchroizationTest - worker starts.
+14:29:34.897 [main] INFO  c.w.m.test.ThreadSynchroizationTest - worker joins.
+14:29:56.871 [main] INFO  c.w.m.test.ThreadSynchroizationTest - worker starts.
+14:29:56.875 [main] INFO  c.w.m.test.ThreadSynchroizationTest - worker joins.
+11:01:44.538 [main] INFO  c.w.m.test.ThreadSynchroizationTest - worker starts.
+11:01:44.555 [main] INFO  c.w.m.test.ThreadSynchroizationTest - worker joins.
+14:02:06.299 [main] INFO  c.w.m.test.ThreadSynchroizationTest - worker starts.
+14:02:06.304 [main] INFO  c.w.m.test.ThreadSynchroizationTest - worker joins.
